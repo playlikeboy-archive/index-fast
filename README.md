@@ -1,3 +1,5 @@
+> Superseded by https://github.com/playlikeboy/indexfast
+
 # ⚡ IndexFast — Instant SEO Indexing for AI-Era Websites
 
 IndexFast is a high-performance SEO indexing engine designed for the AI-first web. It automates the process of notifying Google, Bing, and IndexNow about your new content, ensuring your pages are indexed within minutes instead of weeks.
